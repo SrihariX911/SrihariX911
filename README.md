@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SrihariX911
 - 🌱 I’m currently Doing CTF 
 - 💞️ I’m looking to collaborate on Cyber Security Roles
-- You wont see anything here until you make a contact
 - Contact me at - sriharim091103@gmail.com
 
 <!---
